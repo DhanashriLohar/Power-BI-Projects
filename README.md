@@ -65,3 +65,5 @@ Attrition by Job Role: This graph presents the performance ratings by job role, 
 Slicer: The dashboard includes a slicer that enables data filtering based on departments. Use the slicer buttons to select specific departments and analyze the HR data for those departments exclusively. This interactive feature allows for a focused analysis of HR metrics and trends within specific departments.
 
 
+
+
