@@ -1,5 +1,5 @@
-# 1. Power-BI-Projects
-# Diwali Sales Dashboard
+# Power-BI-Projects
+# 1. Diwali Sales Dashboard
 This power bi file contains the Diwali Sales Report, which provides a comprehensive analysis of sales data during the Diwali festival season. The report includes various key performance indicators (KPIs) and insightful charts to analyze customer demographics, sales trends, and product performance. Additionally, the report features a slicer with buttons to filter data by regions, facilitating interactive exploration of the sales data.
 
 KPIs:
