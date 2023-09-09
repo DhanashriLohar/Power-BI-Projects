@@ -46,6 +46,8 @@ Average Age: This KPI indicates the average age of employees, offering insights 
 
 Attrition by Gender: This KPI breaks down the attrition rate by gender, enabling analysis of attrition patterns among male and female employees.
 
+Years at Company: This KPI represents the average years of employee working at company.
+
 Graphs:
 
 Attrition by Salary: This graph visualizes the attrition rate based on salary levels, allowing for a comparison of attrition patterns across different salary ranges.
