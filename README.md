@@ -28,3 +28,36 @@ State-wise Sales: This chart displays the sales data segmented by states, provid
 
 Slicer: The slicer in the report allows you to filter the data based on regions. Use the slicer buttons to select specific regions and analyze the sales data for those regions exclusively. This interactive feature enables a focused analysis of sales trends and patterns based on geographical areas.
 ![image](https://github.com/DhanashriLohar/Power-BI-Projects/assets/114569069/86e6e44c-2d3f-4af6-abc2-0f85d111afec)
+
+# 2. HR Analytics Dashboard
+This repository contains the HR Analytics Dashboard, which provides a comprehensive analysis of human resources data. The dashboard includes various key performance indicators (KPIs) and insightful visualizations to understand employee attrition, salary distribution, age demographics, education impact, and years of service within the company. The dashboard aims to provide valuable insights into HR metrics and enable data-driven decision-making.
+
+KPIs:
+
+Total Employees: This KPI represents the total number of employees within the organization, providing an overview of the workforce size.
+
+Total Attrition: This KPI reflects the number of employees who have left the company, indicating the attrition rate.
+
+Attrition Rate: This KPI calculates the attrition rate as a percentage, helping assess the stability and turnover within the organization.
+
+Average Salary: This KPI represents the average salary of employees, providing insights into the compensation structure.
+
+Average Age: This KPI indicates the average age of employees, offering insights into the age demographics of the workforce.
+
+Attrition by Gender: This KPI breaks down the attrition rate by gender, enabling analysis of attrition patterns among male and female employees.
+
+Graphs:
+
+Attrition by Salary: This graph visualizes the attrition rate based on salary levels, allowing for a comparison of attrition patterns across different salary ranges.
+
+Rating by Job Role (Table): This table presents the performance ratings by job role, providing an overview of how employees are rated across different roles within the organization.
+
+Attrition by Age: This graph showcases the attrition rate based on different age groups, enabling analysis of attrition patterns within specific age ranges.
+
+Attrition by Education: This graph illustrates the attrition rate based on the education level of employees, providing insights into the impact of education on attrition.
+
+Attrition by Years at Company: This graph visualizes the attrition rate based on the number of years employees have been with the company, enabling analysis of attrition patterns related to employee tenure.
+
+Attrition by Job Role: This graph presents the performance ratings by job role, providing an overview of how employees are rated across different roles within the organization.
+
+Slicer: The dashboard includes a slicer that enables data filtering based on departments. Use the slicer buttons to select specific departments and analyze the HR data for those departments exclusively. This interactive feature allows for a focused analysis of HR metrics and trends within specific departments.
