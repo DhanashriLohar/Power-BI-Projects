@@ -63,4 +63,6 @@ Attrition by Years at Company: This graph visualizes the attrition rate based on
 Attrition by Job Role: This graph presents the performance ratings by job role, providing an overview of how employees are rated across different roles within the organization.
 
 Slicer: The dashboard includes a slicer that enables data filtering based on departments. Use the slicer buttons to select specific departments and analyze the HR data for those departments exclusively. This interactive feature allows for a focused analysis of HR metrics and trends within specific departments.
+![image](https://github.com/DhanashriLohar/Power-BI-Projects/assets/114569069/2dd193e0-acc8-4fed-8055-cee1e23a8c37)
+
 
